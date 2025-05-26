@@ -77,9 +77,9 @@ Dengan menyediakan sistem pengawasan rumah yang **hemat biaya**, **terintegrasi*
 
 ---
 
-## 📸 Demo Tampilan UI
+## 📸 Diagram
 
-![ESP32-CAM UI Screenshot](https://raw.githubusercontent.com/espressif/esp32-camera/master/examples/CameraWebServer/server_files/capture.jpg)
+!on Progress
 
 ---
 
