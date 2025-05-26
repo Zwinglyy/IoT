@@ -83,14 +83,6 @@ Dengan menyediakan sistem pengawasan rumah yang **hemat biaya**, **terintegrasi*
 
 ---
 
-## 📚 Referensi
-
-- [ESP32-CAM CameraWebServer Example](https://github.com/espressif/esp32-camera/tree/master/examples/CameraWebServer)
-- [Arduino-ESP32 Core](https://github.com/espressif/arduino-esp32)
-- [SDG 11 – United Nations](https://sdgs.un.org/goals/goal11)
-
----
-
 ## ✍️ Penulis
 
 Proyek ini dibuat oleh [Christo.Z.A Dan Aom.R],.
