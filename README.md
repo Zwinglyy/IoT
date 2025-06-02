@@ -82,7 +82,7 @@ Tasks deadline:
 
 ## 📸 Diagram
 
-!on Progress
+![Diagram Blok Sistem](image/task2.drawio.png)
 
 ---
 
