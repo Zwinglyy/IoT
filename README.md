@@ -69,14 +69,14 @@ Dengan menyediakan sistem pengawasan rumah yang **hemat biaya**, **terintegrasi*
 ## 📅 Timeline Proyek
 
 Tasks deadline:
-✅ Task 1 (topik dan repo) : https://forms.office.com/r/8tWUJSvWU9
-✅ Task 2 (diagram blok sistem) : 25 Mei 2025
-🔳 Task 3 (desain sistem lengkap UI/UX software dan hardware) : 1 Juni 2025
-🔳 Task 4 (Implementasi hardware) : 8 Juni 2025
-🔳 Task 5 (Implementasi software) : 15 Juni 2025
-🔳 Task 6 (Integrasi software + hardware) : 22 Juni 2025
-🔳 Task 7 (Pengujian sistem dan penyempurnaan) : 29 Juni 2025
-🔳 Task 8 (Laporan akhir) via e learning : 6 Juli 2025
+- ✅ Task 1 (topik dan repo) : https://forms.office.com/r/8tWUJSvWU9
+- ✅ Task 2 (diagram blok sistem) : 25 Mei 2025
+- 🔳 Task 3 (desain sistem lengkap UI/UX software dan hardware) : 1 Juni 2025
+- 🔳 Task 4 (Implementasi hardware) : 8 Juni 2025
+- 🔳 Task 5 (Implementasi software) : 15 Juni 2025
+- 🔳 Task 6 (Integrasi software + hardware) : 22 Juni 2025
+- 🔳 Task 7 (Pengujian sistem dan penyempurnaan) : 29 Juni 2025
+- 🔳 Task 8 (Laporan akhir) via e learning : 6 Juli 2025
 
 ---
 
